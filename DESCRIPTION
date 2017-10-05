@@ -1,0 +1,10 @@
+Package: Biomarker
+Type: Package
+Title: Biomarker identification 
+Version: 1.0.0
+Author: Jan Walach
+Maintainer: Jan Walach <walach.jan@gmail.com>
+Description: The package for identification of biomakers and outlier diagnostics as described in paper 'Robust biomarker identification in a two-class problem based on pairwise log-ratios'
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
